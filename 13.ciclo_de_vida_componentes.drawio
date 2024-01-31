@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="Ape8lplB5yGnFXOaJgni" name="Página-1">
+        <mxGraphModel dx="3634" dy="1866" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="constructor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="-123" y="-67" width="427" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="ngOnChanges" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="-123" y="11" width="427" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="ngOnInit" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="-123" y="89" width="427" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="ngDoCheck" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="-123" y="167" width="427" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="ngAfterContentInit" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="-38" y="245" width="427" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="ngAfterContentChecked" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="-38" y="323" width="427" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="ngAfterViewInit" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="-38" y="401" width="427" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="ngAfterViewCheck" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="-40" y="479" width="427" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="ngDoCheck" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+                    <mxGeometry x="-123" y="557" width="427" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
